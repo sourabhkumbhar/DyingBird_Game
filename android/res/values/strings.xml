@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dying Bird</string>
+    <string name="ad_unit_bottom_banner">ca-app-pub-4318223458314026/7398867596</string>
+    <string name="ad_unit_interstitial">ca-app-pub-4318223458314026/8875600794</string>
+
+    <!--<string name="ad_unit_bottom_banner">ca-app-pub-4318223458314026/5207123992</string>-->
+    <!--<string name="ad_unit_interstitial">ca-app-pub-4318223458314026/6587955598</string>-->
+
+    <string name="admob_app_id">ca-app-pub-4318223458314026~3730390793</string>
+
+
+</resources>

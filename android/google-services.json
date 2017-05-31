@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83130697382",
+    "firebase_url": "https://dying-bird.firebaseio.com",
+    "project_id": "dying-bird",
+    "storage_bucket": "dying-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83130697382:android:41eb253d7a56048a",
+        "android_client_info": {
+          "package_name": "sourabh.dyingbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83130697382-gtkjcaia9el4l7tes5lu4r8ts67k5uu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sourabh.dyingbird",
+            "certificate_hash": "972f2a6d86726cda795ba81b3af27bb6116582cc"
+          }
+        },
+        {
+          "client_id": "83130697382-m8touljkaftn9sevptscqng8jio6nm81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtOR7lt0K93lUpODluw17T5j_0HfItMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83130697382-m8touljkaftn9sevptscqng8jio6nm81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
